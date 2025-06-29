@@ -1,3 +1,7 @@
+-- POWERBI DASHBOARD:  
+https://app.powerbi.com/groups/me/reports/39105281-8abb-4d85-8b6b-576cb5ef7110/988cd254e7e606e41213?experience=power-bi
+
+
 ## USE restaurant_orders;
 -- 1. View the menu_items table
 SELECT *
